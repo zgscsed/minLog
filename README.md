@@ -1,2 +1,2 @@
-# minLog
+# minlog
 c++ logging library
